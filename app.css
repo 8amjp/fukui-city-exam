@@ -1,0 +1,81 @@
+@charset "utf-8";
+
+.question-container {
+    margin: 2px auto;
+    padding: 4px;
+}
+.question-title {
+    color: white;
+    padding: 4px;
+}
+.question-title .title {
+}
+.question-title .mark {
+    padding-left: 8px;
+}
+.question-contents {
+    background-color: hsla(0, 0%, 100%, 0.75);
+}
+.question-text {
+    padding: 4px 6px;
+}
+.question-options {
+    padding: 4px;
+}
+.question-answer {
+    min-width: 3em;
+    margin: 1px;
+}
+.question-feedback {
+    padding: 4px 6px;
+}
+#questions-header {
+    height: 40px;
+    text-align: center;
+}
+#questions-header button {
+}
+#questions-play {
+}
+#questions-mark {
+}
+#questions-result {
+}
+#questions-result .per{
+    font-size: 1.2em;
+    padding: 0 8px;
+}
+#questions-marks {
+    font-size: 1.5em;
+    color: hsl(145,    63%, 49%);
+}
+#questions-maximumgrade {
+    font-size: 1.2em;
+}
+
+.current {
+    background-color: hsl(204,    70%, 53%);
+    border-color: hsl(204,    70%, 53%);
+}
+.answered {
+    background-color: hsl(210,    29%, 29%);
+    border-color: hsl(210,    29%, 29%);
+}
+.unanswered {
+    background-color: hsl(210,    29%, 29%);
+    border-color: hsl(210,    29%, 29%);
+}
+.selected {
+}
+.unselected {
+    background-color: hsl(184,     6%, 53%);
+    border-color: hsl(184,     6%, 53%);
+}
+.correct {
+    background-color: hsl(145,    63%, 49%);
+    border-color: hsl(145,    63%, 49%);
+}
+.incorrect {
+    background-color: hsl(    6,    78%, 57%);
+    border-color: hsl(    6,    78%, 57%);
+}

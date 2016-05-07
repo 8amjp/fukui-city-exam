@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quiz>
+  <question type="multichoice">
+    <name><text>郵便番号</text></name>
+    <questiontext><text>福井市の郵便番号は「910」で始まりますが、「910-0001」が割り当てられているのはどの地区？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>町屋は910-0002、松本は910-0003、宝永は910-0004、大手は910-0005、中央は910-0006です。</text></correctfeedback>
+    <answer fraction="100"><text>大願寺</text></answer>
+    <answer fraction="0"><text>町屋</text></answer>
+    <answer fraction="0"><text>松本</text></answer>
+    <answer fraction="0"><text>宝永</text></answer>
+    <answer fraction="0"><text>大手</text></answer>
+    <answer fraction="0"><text>中央</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>行政</text></name>
+    <questiontext><text>福井市制100周年を記念して作られた福井市民の歌「わたしのまち ときめきのまち」を歌っているのは誰？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text></text></correctfeedback>
+    <answer fraction="100"><text>ダ・カーポ</text></answer>
+    <answer fraction="0"><text>トワ・エ・モア</text></answer>
+    <answer fraction="0"><text>ハイ・ファイ・セット</text></answer>
+    <answer fraction="0"><text>チェリッシュ</text></answer>
+    <answer fraction="0"><text>紙ふうせん</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>コンビニエンスストア</text></name>
+    <questiontext><text>福井市内に出店していないコンビニエンスストアはどれ？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>ミニストップは、福井県の嶺南地方には出店されていますが、福井市を含む嶺北地域にはまだ出店されていません。</text></correctfeedback>
+    <answer fraction="100"><text>ミニストップ</text></answer>
+    <answer fraction="0"><text>セブン-イレブン</text></answer>
+    <answer fraction="0"><text>ファミリーマート</text></answer>
+    <answer fraction="0"><text>ローソン</text></answer>
+    <answer fraction="0"><text>サークルKサンクス</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>家電量販店</text></name>
+    <questiontext><text>福井市内に出店していない大手家電量販店はどれ？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>福井市大和田地区は家電量販店の激戦区になっています。</text></correctfeedback>
+    <answer fraction="100"><text>ヨドバシカメラ</text></answer>
+    <answer fraction="0"><text>ケーズデンキ</text></answer>
+    <answer fraction="0"><text>ヤマダ電機</text></answer>
+    <answer fraction="0"><text>ジョーシン</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>市の花</text></name>
+    <questiontext><text>福井市の花に制定されており、足羽山でも多く咲いている花は？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>市政90周年の記念に制定されました。</text></correctfeedback>
+    <answer fraction="100"><text>アジサイ</text></answer>
+    <answer fraction="0"><text>ツツジ</text></answer>
+    <answer fraction="0"><text>ひまわり</text></answer>
+    <answer fraction="0"><text>水仙</text></answer>
+    <answer fraction="0"><text>チューリップ</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>地方自治法</text></name>
+    <questiontext><text>福井市は地方自治法により特別な指定を受けているが、その区分は？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>2000年に移行しました。</text></correctfeedback>
+    <answer fraction="100"><text>特例市</text></answer>
+    <answer fraction="0"><text>指定都市</text></answer>
+    <answer fraction="0"><text>中核市</text></answer>
+    <answer fraction="0"><text>特別区</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>金融機関</text></name>
+    <questiontext><text>福井市内に支店を置いていない金融機関は？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>三菱東京UFJ銀行の支店は福井県内にもありません。</text></correctfeedback>
+    <answer fraction="100"><text>三菱東京UFJ銀行</text></answer>
+    <answer fraction="0"><text>みずほ銀行</text></answer>
+    <answer fraction="0"><text>三井住友銀行</text></answer>
+    <answer fraction="0"><text>ゆうちょ銀行</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>コミュニティバスすまいる</text></name>
+    <questiontext><text>コミュニティバスすまいるに乗って福井県立病院に向かう場合、何ルートに乗ればよい？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>東ルートの21番目の停留所「県立病院口」で下車して下さい。</text></correctfeedback>
+    <answer fraction="100"><text>東ルート(城東・日之出方面)</text></answer>
+    <answer fraction="0"><text>北ルート(田原・文京方面)</text></answer>
+    <answer fraction="0"><text>西ルート(照手・足羽方面)</text></answer>
+    <answer fraction="0"><text>南ルート(木田・板垣方面)</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>最高峰</text></name>
+    <questiontext><text>福井市と大野市の境に位置し、標高884mと福井市内最高峰となる山の名前は？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>飯降山の伝説はまんが日本昔ばなしでも放送されました。</text></correctfeedback>
+    <answer fraction="100"><text>飯降山</text></answer>
+    <answer fraction="0"><text>足羽山</text></answer>
+    <answer fraction="0"><text>兎越山</text></answer>
+    <answer fraction="0"><text>八幡山</text></answer>
+    <answer fraction="0"><text>国見岳</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>市立高等学校</text></name>
+    <questiontext><text>福井市立の高等学校は全部でいくつ？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>福井県内には市立高等学校は一つもありません。</text></correctfeedback>
+    <answer fraction="100"><text>0</text></answer>
+    <answer fraction="0"><text>2</text></answer>
+    <answer fraction="0"><text>5</text></answer>
+    <answer fraction="0"><text>8</text></answer>
+    <answer fraction="0"><text>14</text></answer>
+    <answer fraction="0"><text>23</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>JR西日本</text></name>
+    <questiontext><text>JR西日本の駅のうち、福井市内にないのは？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>選択肢はすべてJR越美北線の駅名です。牛ケ原駅のみ福井県大野市に位置します。</text></correctfeedback>
+    <answer fraction="100"><text>牛ケ原駅</text></answer>
+    <answer fraction="0"><text>六条駅</text></answer>
+    <answer fraction="0"><text>小和清水駅</text></answer>
+    <answer fraction="0"><text>越前薬師駅</text></answer>
+    <answer fraction="0"><text>計石駅</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>佐佳枝廼社</text></name>
+    <questiontext><text>福井市内中心部にある神社、佐佳枝廼社(さかえのやしろ)の社名を命名し、自らも主祭神として祀られている人は誰？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>1873年(明治6年)に福井藩藩祖・松平秀康(結城秀康)公を祀るため創建されました。</text></correctfeedback>
+    <answer fraction="100"><text>松平春嶽</text></answer>
+    <answer fraction="0"><text>由利公正</text></answer>
+    <answer fraction="0"><text>橋本左内</text></answer>
+    <answer fraction="0"><text>柴田勝家</text></answer>
+    <answer fraction="0"><text>松平忠直</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>園芸</text></name>
+    <questiontext><text>福井市の新しい特産品である、小玉で種がないスイカの名前は？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>平成12年7月に誕生しました。</text></correctfeedback>
+    <answer fraction="100"><text>金福すいか</text></answer>
+    <answer fraction="0"><text>万福すいか</text></answer>
+    <answer fraction="0"><text>新福すいか</text></answer>
+    <answer fraction="0"><text>祥福すいか</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>姉妹都市</text></name>
+    <questiontext><text>福井市と姉妹友好都市提携を結んでいる九州の都市は？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>1994(平成6)年から続いています。</text></correctfeedback>
+    <answer fraction="100"><text>熊本市</text></answer>
+    <answer fraction="0"><text>鹿児島市</text></answer>
+    <answer fraction="0"><text>宮崎市</text></answer>
+    <answer fraction="0"><text>別府市</text></answer>
+    <answer fraction="0"><text>久留米市</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>市町村合併</text></name>
+    <questiontext><text>福井市は2006年に美山町・清水町・越廼村の3自治体を編入しました。では、その前に福井市に編入された自治体は？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>1971年に編入されました。</text></correctfeedback>
+    <answer fraction="100"><text>足羽郡足羽町</text></answer>
+    <answer fraction="0"><text>吉田郡森田町</text></answer>
+    <answer fraction="0"><text>丹生郡殿下村</text></answer>
+    <answer fraction="0"><text>丹生郡国見村</text></answer>
+    <answer fraction="0"><text>足羽郡麻生津村</text></answer>
+  </question>
+  <question type="multichoice">
+    <name><text>施設</text></name>
+    <questiontext><text>次のうち、福井市内にない施設はどれ？</text></questiontext>
+    <defaultgrade>1</defaultgrade>
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <correctfeedback><text>サンドーム福井は越前市に位置します。</text></correctfeedback>
+    <answer fraction="100"><text>サンドーム福井</text></answer>
+    <answer fraction="0"><text>フェニックス・プラザ</text></answer>
+    <answer fraction="0"><text>福井県立音楽堂</text></answer>
+    <answer fraction="0"><text>響のホール</text></answer>
+    <answer fraction="0"><text>福井県立武道館</text></answer>
+  </question>
+</quiz>
